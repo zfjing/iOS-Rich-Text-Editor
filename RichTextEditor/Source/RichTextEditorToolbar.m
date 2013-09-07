@@ -46,7 +46,7 @@
 @property (nonatomic, strong) RichTextEditorToggleButton *btnUnderline;
 @property (nonatomic, strong) RichTextEditorToggleButton *btnStrikeThrough;
 @property (nonatomic, strong) RichTextEditorToggleButton *btnFontSize;
-@property (nonatomic, strong) RichTextEditorToggleButton *btnFont;
+@property (nonatomic, strong) RichTextEditorToggleButton *btnFont;//ok by paul
 @property (nonatomic, strong) RichTextEditorToggleButton *btnBackgroundColor;
 @property (nonatomic, strong) RichTextEditorToggleButton *btnForegroundColor;
 @property (nonatomic, strong) RichTextEditorToggleButton *btnTextAlignmentLeft;
